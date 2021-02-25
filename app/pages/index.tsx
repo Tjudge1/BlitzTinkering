@@ -64,8 +64,9 @@ const Home: BlitzPage = () => {
             <UserInfo />
           </Suspense>
         </div>
+
         <div className="SampleImage">
-        <img src="/mega-man-8-mega-man-x-mega-man-7-mega-man-universe-pixel copy.jpg" />
+          <img src="/mega-man-8-mega-man-x-mega-man-7-mega-man-universe-pixel copy.jpg" />
         </div>
       </main>
 
